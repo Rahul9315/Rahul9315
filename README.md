@@ -51,7 +51,7 @@ Web Development &nbsp;&nbsp;|&nbsp;&nbsp; Android Development &nbsp;&nbsp;|&nbsp
 
 📧 **Email:** baghel931515@gmail.com  
 🌐 **Website:** [rahulbaghel.netlify.app](https://rahulbaghel.netlify.app)  
-💼 **LinkedIn:** [[linkedin.com/in/rahul9315](https://www.linkedin.com/in/rahul-baghel-9a52a925b)
+💼 **LinkedIn:** [linkedin.com/in/rahul-baghel-9a52a925b](https://www.linkedin.com/in/rahul-baghel-9a52a925b)
 
 ---
 
