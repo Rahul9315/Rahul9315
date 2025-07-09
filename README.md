@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://rahulbaghel.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23026AA7?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:rahulhunny2001@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rahul9315" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:baghel931515@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahul-baghel-9a52a925b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Rahul9315"><img src="https://komarev.com/ghpvc/?username=rahul9315&label=Profile%20Views&color=0e75b6&style=flat" alt="rahul9315" /></a>
 </p>
 
@@ -49,9 +49,9 @@ Web Development &nbsp;&nbsp;|&nbsp;&nbsp; Android Development &nbsp;&nbsp;|&nbsp
 
 ### 📫 Let's Connect
 
-📧 **Email:** rahulhunny2001@gmail.com  
+📧 **Email:** baghel931515@gmail.com  
 🌐 **Website:** [rahulbaghel.netlify.app](https://rahulbaghel.netlify.app)  
-💼 **LinkedIn:** [linkedin.com/in/rahul9315](https://linkedin.com/in/rahul9315)
+💼 **LinkedIn:** [[linkedin.com/in/rahul9315](https://www.linkedin.com/in/rahul-baghel-9a52a925b)
 
 ---
 
