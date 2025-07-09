@@ -12,39 +12,29 @@
 
 ### 🧑‍💻 About Me
 
-I'm a final-year Computer Science student at TU Dublin with a strong passion for **software development**, **network security**, and building intelligent, user-friendly systems. My work spans across web apps, Android apps, and system-level projects using **React**, **Java**, **Python**, **Supabase**, and **Flask**.
-
----
-
-### 🚀 Projects
-
-- 🧠 **NIDPS** – Real-time Network Intrusion Detection & Prevention System  
-  *(Python, Flask, PyShark)*
-
-- 📁 **Secure File Transfer System** – Multithreaded Client-Server App in Linux  
-  *(C, Pthreads, Sockets)*
-
-- 🏠 **Tenant Book** – Landlord CRM app for managing tenants & rent  
-  *(Java, Supabase, Android)*
-
-- ⏰ **Talking Clock App** – Android app for visually impaired individuals  
-  *(Java, XML)*
-
-- 🌐 **Portfolio Website** – My personal portfolio  
-  👉 [rahulbaghel.netlify.app](https://rahulbaghel.netlify.app)
+I'm a Computer Science graduate from TU Dublin with a strong passion for **software development**, **network security**, and building intelligent, user-friendly systems. My work spans across web apps, Android apps, and system-level projects using **React**, **Java**, **Python**, **Supabase**, and **Flask**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-`Java` `Python` `JavaScript` `C` `SQL`
+**Languages & Programming:**  
+Java &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; Python &nbsp;&nbsp;|&nbsp;&nbsp; C &nbsp;&nbsp;|&nbsp;&nbsp; Kotlin &nbsp;&nbsp;|&nbsp;&nbsp; PHP  
 
-**Web & Mobile:**  
-`React` `Android Studio` `Flask` `Supabase` `Firebase` `HTML/CSS`
+**Frontend & Styling:**  
+HTML5 &nbsp;&nbsp;|&nbsp;&nbsp; CSS3 &nbsp;&nbsp;|&nbsp;&nbsp; React.js  
 
-**Tools:**  
-`VS Code` `Git/GitHub` `Netlify` `Postman` `MySQL` `Linux (Ubuntu)`
+**Backend & Frameworks:**  
+Flask &nbsp;&nbsp;|&nbsp;&nbsp; Node.js  
+
+**Database & Cloud:**  
+MySQL &nbsp;&nbsp;|&nbsp;&nbsp; MongoDB &nbsp;&nbsp;|&nbsp;&nbsp; Supabase  
+
+**Tools & Platforms:**  
+Android Studio &nbsp;&nbsp;|&nbsp;&nbsp; Git &nbsp;&nbsp;|&nbsp;&nbsp; Linux &nbsp;&nbsp;|&nbsp;&nbsp; Kali Linux &nbsp;&nbsp;|&nbsp;&nbsp; Wireshark &nbsp;&nbsp;|&nbsp;&nbsp; R Studio  
+
+**Domains:**  
+Web Development &nbsp;&nbsp;|&nbsp;&nbsp; Android Development &nbsp;&nbsp;|&nbsp;&nbsp; Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; Machine Learning (scikit-learn)
 
 ---
 
